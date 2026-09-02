@@ -28,6 +28,11 @@
             //AddBonusPages(pages);
             //Console.WriteLine(pages);
             #endregion
+            #region
+            //double[] prices = { 25.5, 40.0 };
+            //ApplyDiscount(prices);
+            //Console.WriteLine(prices[0]);
+            #endregion
 
         }
         #region
@@ -48,8 +53,16 @@
         //{
         //    pages += 50;
         //}
-        //#endregion
+        #endregion
+        #region
+        //static void ApplyDiscount(double[] prices)
+        //{
+        //    prices[0] -= 5;
+        //}
+        #endregion
+
     }
 }
-    
 
+
+   

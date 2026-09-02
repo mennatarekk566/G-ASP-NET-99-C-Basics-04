@@ -23,20 +23,33 @@
             #region
             //printbooktittle("cleancode");
             #endregion
+            #region
+            //int pages = 400;
+            //AddBonusPages(pages);
+            //Console.WriteLine(pages);
+            #endregion
 
         }
         #region
         //static void printbooktittle(string title)
         //{
         //    Console.WriteLine("Book title: " +  title);
-    }
         #endregion
-    #region
-    //static void printwelcomemessage()
-    //{
-    //    Console.WriteLine("welcome to the library");
-    //}
 
-}
+
+        #region
+        //static void printwelcomemessage()
+        //{
+        //    Console.WriteLine("welcome to the library");
+        //}
         #endregion
+        #region
+        //static void AddBonusPages(int pages)
+        //{
+        //    pages += 50;
+        //}
+        //#endregion
+    }
 }
+    
+

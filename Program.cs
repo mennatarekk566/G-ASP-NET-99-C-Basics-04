@@ -18,15 +18,25 @@
 
             #endregion
             #region
-        //    printwelcomemessage();
+            //printwelcomemessage();
+            #endregion
+            #region
+            //printbooktittle("cleancode");
+            #endregion
 
-
-        //}
-        // static void printwelcomemessage()
+        }
+        #region
+        //static void printbooktittle(string title)
         //{
-        //    Console.WriteLine("welcome to the library");
-        //}
-
+        //    Console.WriteLine("Book title: " +  title);
     }
+        #endregion
+    #region
+    //static void printwelcomemessage()
+    //{
+    //    Console.WriteLine("welcome to the library");
+    //}
+
+}
         #endregion
 }

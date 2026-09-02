@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region
+            //double[] arr = { 25.5, 40.0, 33.75 };
+            //Console.WriteLine(arr[1]);
+            #endregion
+
         }
     }
 }

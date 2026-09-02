@@ -38,12 +38,25 @@
             //Console.WriteLine(pages);
             #endregion
             #region
-        //    { 
-        //    double[] prices = { 25.5, 40.0 };
-        //    ReplaceArray(ref prices);
-        //    Console.WriteLine(prices.Length);
-        //}
+            //    { 
+            //    double[] prices = { 25.5, 40.0 };
+            //    ReplaceArray(ref prices);
+            //    Console.WriteLine(prices.Length);
+            //}
 
+            #endregion
+            #region
+
+            //bool found = TryGetPrice("Clean Code", out double price);
+
+            //if (found)
+            //{
+            //    Console.WriteLine($"Price: {price}");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Book not found");
+            //}
             #endregion
 
         }
@@ -85,9 +98,23 @@
         //}
 
         #endregion
+        #region
+        //static bool TryGetPrice(string title, out double price)
+        //{
+        //    if (title == "Clean Code")
+        //    {
+        //        price = 25.5;
+        //        return true;
+        //    }
+        //    else
+        //    {
+        //        price = 0;
+        //        return false;
+            }
+        #endregion
+        }
+    
 
-    }
-}
 
 
    

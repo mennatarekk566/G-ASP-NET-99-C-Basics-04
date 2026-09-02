@@ -15,7 +15,6 @@
             //    { 1,4}
             //};
             //Console.WriteLine(shelf[1,0]);
-
             #endregion
             #region
             //printwelcomemessage();
@@ -32,6 +31,11 @@
             //double[] prices = { 25.5, 40.0 };
             //ApplyDiscount(prices);
             //Console.WriteLine(prices[0]);
+            #endregion
+            #region
+            //int pages = 400;
+            //AddBonusPagesByRef(ref pages);
+            //Console.WriteLine(pages);
             #endregion
 
         }
@@ -58,6 +62,12 @@
         //static void ApplyDiscount(double[] prices)
         //{
         //    prices[0] -= 5;
+        //}
+        #endregion
+        #region
+        //static void AddBonusPagesByRef(ref int pages)
+        //{
+        //    pages += 50;
         //}
         #endregion
 

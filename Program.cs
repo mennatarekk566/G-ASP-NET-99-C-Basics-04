@@ -59,13 +59,21 @@
             //}
             #endregion
             #region
-           
-           //PrintBookInfo("Cukur");           
-           //PrintBookInfo("what see cannot see", 350);     
-            
+
+            //PrintBookInfo("Cukur");           
+            //PrintBookInfo("what see cannot see", 350);     
+
+            #endregion
+            #region
+            //printbookinfo(pages: 350, tittle: "cukur");
+            #endregion
+            #region
+            //printalltitles("cukur", "you cannot see see", "unknown future");
             #endregion
 
         }
+
+
         #region
         //static void printbooktittle(string title)
         //{
@@ -122,6 +130,21 @@
         //static void PrintBookInfo(string title, int pages = 300)
         //{
         //    Console.WriteLine($"{title} - {pages} pages");
+        //}
+
+        #endregion
+        #region
+        //static void printbookinfo(int pages, string tittle) {
+        //    Console.WriteLine($"tittle is: {tittle}  pages is :{pages}");
+        //}
+        #endregion
+        #region
+        //static void printalltitles(params string[] titles)
+        //{
+        //    foreach (string title in titles)
+        //    {
+        //        Console.WriteLine(title);
+        //    }
         //}
 
         #endregion

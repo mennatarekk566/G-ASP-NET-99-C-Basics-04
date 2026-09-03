@@ -58,6 +58,12 @@
             //    Console.WriteLine("Book not found");
             //}
             #endregion
+            #region
+           
+           //PrintBookInfo("Cukur");           
+           //PrintBookInfo("what see cannot see", 350);     
+            
+            #endregion
 
         }
         #region
@@ -110,11 +116,19 @@
         //    {
         //        price = 0;
         //        return false;
-            }
+
         #endregion
-        }
+        #region
+        //static void PrintBookInfo(string title, int pages = 300)
+        //{
+        //    Console.WriteLine($"{title} - {pages} pages");
+        //}
+
+        #endregion
+    }
+}
     
 
 
 
-   
+
